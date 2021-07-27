@@ -36,7 +36,7 @@ obj
 	appearance_flags = PLANE_MASTER
 	blend_mode = BLEND_OVERLAY
 	plane = 11
-	color = "#000"  //comment this to have two overlays of which one moves as in https://streamable.com/mt7mus
+	color = "#000"  //comment this out to have two overlays of which one moves as in https://streamable.com/mt7mus
 
 /atom/movable/plane_master/lighting
 	plane = 12
